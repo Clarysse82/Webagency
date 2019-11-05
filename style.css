@@ -2,35 +2,35 @@
 
 @font-face {
     font-family: 'Roboto-Regular';
-    src: url('fonts/Roboto-Regular.ttf');
+    src: url('Roboto-Regular.ttf');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Roboto-black';
-    src: url('fonts/Roboto-black.ttf');
+    src: url('Roboto-black.ttf');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Roboto-Light';
-    src: url('fonts/Roboto-Light.ttf');
+    src: url('Roboto-Light.ttf');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Roboto-Medium';
-    src: url('fonts/Roboto-Medium.ttf');
+    src: url('Roboto-Medium.ttf');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Roboto-Bold';
-    src: url('fonts/Roboto-Bold.ttf');
+    src: url('Roboto-Bold.ttf');
     font-weight: normal;
     font-style: normal;
 }
@@ -342,7 +342,7 @@ article     {
     width: 300px;
     height: 200px;
     margin-bottom: 30px;
-    background: url("images/portfolio/01.jpg") no-repeat;
+    background: url("portfolio/01.jpg") no-repeat;
     background-size: 100%;
     background-position: center;
     transition: 0.5s;
@@ -360,7 +360,7 @@ article     {
     width: 300px;
     height: 200px;
     margin-bottom: 30px;
-    background: url("images/portfolio/02.jpg") no-repeat;
+    background: url("portfolio/02.jpg") no-repeat;
     background-size: 100%;
     background-position: center;
     transition: 0.5s;
@@ -378,7 +378,7 @@ article     {
     width: 300px;
     height: 200px;
     margin-bottom: 30px;
-    background: url("images/portfolio/03.jpg") no-repeat;
+    background: url("portfolio/03.jpg") no-repeat;
     background-size: 100%;
     background-position: center;
     transition: 0.5s;
@@ -396,7 +396,7 @@ article     {
     width: 300px;
     height: 200px;
     margin-bottom: 30px;
-    background: url("images/portfolio/04.jpg") no-repeat;
+    background: url("portfolio/04.jpg") no-repeat;
     background-size: 100%;
     background-position: center;
     transition: 0.5s;
@@ -414,7 +414,7 @@ article     {
     width: 300px;
     height: 200px;
     margin-bottom: 30px;
-    background: url("images/portfolio/05.jpg") no-repeat;
+    background: url("portfolio/05.jpg") no-repeat;
     background-size: 100%;
     background-position: center;
     transition: 0.5s;
@@ -432,7 +432,7 @@ article     {
     width: 300px;
     height: 200px;
     margin-bottom: 30px;
-    background: url("images/portfolio/06.jpg") no-repeat;
+    background: url("portfolio/06.jpg") no-repeat;
     background-size: 100%;
     background-position: center;
     transition: 0.5s;
@@ -450,7 +450,7 @@ article     {
     width: 300px;
     height: 200px;
     margin-bottom: 30px;
-    background: url("images/portfolio/07.jpg") no-repeat;
+    background: url("portfolio/07.jpg") no-repeat;
     background-size: 100%;
     background-position: center;
     transition: 0.5s;
@@ -468,7 +468,7 @@ article     {
     width: 300px;
     height: 200px;
     margin-bottom: 30px;
-    background: url("images/portfolio/08.jpg") no-repeat;
+    background: url("portfolio/08.jpg") no-repeat;
     background-size: 100%;
     background-position: center;
     transition: 0.5s;
