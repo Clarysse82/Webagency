@@ -618,6 +618,9 @@ aside   {
 @media all and (max-width: 400px)
 {
 
+*	{
+    border: 1px solid black; 		
+	
 #menu {
     width: 100%;
     text-align: center;
